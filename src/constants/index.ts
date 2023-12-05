@@ -19,4 +19,12 @@ export const ROUTES = [
   //   href: "/slider",
   //   label: "Slider",
   // },
+  {
+    href: "/tabs",
+    label: "Tabs",
+  },
+  {
+    href: "/dropdown-menu",
+    label: "Dropdown Menu",
+  },
 ];
