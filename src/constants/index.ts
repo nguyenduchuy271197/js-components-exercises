@@ -1,30 +1,38 @@
 export const ROUTES = [
   {
-    href: "/modal",
-    label: "Modal",
-  },
-  {
-    href: "/drawer",
-    label: "Drawer",
+    href: "/collapse",
+    label: "Collapse",
   },
   {
     href: "/accordion",
     label: "Accordion",
   },
   {
-    href: "/hover-card",
-    label: "Hover Card",
+    href: "/random-image",
+    label: "Random Image",
   },
+  // {
+  //   href: "/modal",
+  //   label: "Modal",
+  // },
+  // {
+  //   href: "/drawer",
+  //   label: "Drawer",
+  // },
+  // {
+  //   href: "/hover-card",
+  //   label: "Hover Card",
+  // },
+  // {
+  //   href: "/tabs",
+  //   label: "Tabs",
+  // },
   // {
   //   href: "/slider",
   //   label: "Slider",
   // },
-  {
-    href: "/tabs",
-    label: "Tabs",
-  },
-  {
-    href: "/dropdown-menu",
-    label: "Dropdown Menu",
-  },
+  // {
+  //   href: "/dropdown-menu",
+  //   label: "Dropdown Menu",
+  // },
 ];
